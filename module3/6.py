@@ -1,0 +1,5 @@
+d = int(input())
+r = int(input())
+n = int(input())
+length = 2 * d + (2 * r * n)
+print(length)
